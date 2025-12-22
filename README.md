@@ -11,10 +11,10 @@ I am a Computer Science student and software developer with strong interests in 
 I enjoy designing systems end-to-end — from logic and architecture to UI and deployment.
 
 Currently focused on:
-- Full-stack and backend development
-- Java & JavaFX applications
-- Learning AI integration and modern app development
-- Building real projects, not just demos
+- Full-stack and backend development  
+- Java & JavaFX applications  
+- Learning AI integration and modern app development  
+- Building real projects, not just demos  
 
 I am **open to internships**, **freelance opportunities**, and collaborative projects.
 
@@ -70,9 +70,17 @@ A modern developer portfolio showcasing projects, skills, and experience, built 
 
 ## 📫 Connect With Me
 
-- 📧 Email: **tonyalidu@gmail.com**
-- 🐦 X (Twitter): [@AliduTony](https://x.com/AliduTony)
-- 📸 Instagram: [@immnot_tony](https://www.instagram.com/immnot_tony)
+<p align="left">
+  <a href="mailto:tonyalidu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/AliduTony">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/immnot_tony">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
