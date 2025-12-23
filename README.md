@@ -1,4 +1,4 @@
-# Alidu Anthony.
+# Alidu Anthony
 
 **Software Developer • Computer Science Student • IT-Focused Engineer**
 
